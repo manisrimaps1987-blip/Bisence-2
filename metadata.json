@@ -1,0 +1,6 @@
+{
+  "name": "BISENCE",
+  "description": "From Product Idea to the Right Indian Standard — With Evidence. A government-grade, citizen-first Standards Discovery and BIS Compliance Navigation platform for India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
